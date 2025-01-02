@@ -1,4 +1,4 @@
 tmp/build-errors.log
 tmp/main
 .env
-config.yaml
+config.yaml.local
