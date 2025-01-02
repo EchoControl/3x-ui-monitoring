@@ -1,0 +1,6 @@
+host: "your_panel_host"
+port: "your_panel_port"
+basepath: "your_panel_basepath"
+username: "your_panel_username"
+password: "your_panel_password"
+app_port: "8080"
